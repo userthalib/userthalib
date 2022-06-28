@@ -3,12 +3,9 @@
 <p align="left"> <img height="15" src="https://komarev.com/ghpvc/?username=userthalib&label=Views&color=blue&style=plastic" alt="userthalib" /> </p>
 
 ## Contact Me
-<a href="https://www.linkedin.com/in/irfan-thalib-alfarid-5b2427192/">
-  <img align="left" alt="My Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="mailto:thalibirfan29@gmail.com">
-  <img align="left" alt="My Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/irfan-thalib-alfarid-5b2427192/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&labelColor=fff&logo=Gmail&logoColor=c4302b)](mailto:thalibirfan29@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-2ca5e0?style=flat&logo=telegram&logoColor=white)](https://t.me/userthalib)
 <br><br>
 
 ## Stats & Description
