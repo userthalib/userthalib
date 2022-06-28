@@ -1,4 +1,4 @@
-# Hi 👋 , My Name is Irfan Thalib Alfarid
+# Hi 👋 , My name is Irfan Thalib Alfarid
 
 <p align="left"> <img height="15" src="https://komarev.com/ghpvc/?username=userthalib&label=Views&color=blue&style=plastic" alt="userthalib" /> </p>
 
